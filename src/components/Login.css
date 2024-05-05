@@ -1,0 +1,52 @@
+.loginPage {
+    margin: auto;
+    margin-top: 15vh !important; 
+
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    display: flex;
+    justify-content:center;
+    width: 40% !important;
+    border-radius: 5px;
+    background-color: white;
+    padding: 20px;
+
+  }
+  body{
+    background-color: red;
+  }
+  
+  .inputflex {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  .inputlogin {
+    margin-bottom: 10px;
+  }
+  .signupbtn {
+    margin-left: 5px;
+    background-color:  yellowgreen;
+  }
+  #email {
+    width: 100%;
+    padding-top: 2% !important;
+    padding-bottom: 2% !important;
+  }
+  #password {
+    width: 100%;
+    padding-top: 2% !important;
+    padding-bottom: 2% !important;
+  }
+
+  .raj{
+    color: black;
+    text-align: center;
+    width: 100%;
+  }
+  .rajshree{
+    color: black;
+  }
+
+  html{
+    background-color: lightblue;
+  }
